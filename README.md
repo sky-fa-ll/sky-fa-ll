@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sky-fa-ll
 - 👀 I’m interested in JavaScript and VR Game Development via Unity.
 - 🌱 I’m currently learning JavaScript and C#.
-- 📫 How to reach me ( added soon )
+- 📫 How to reach me ( adding soon )
 
 <!---
 sky-fa-ll/sky-fa-ll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
